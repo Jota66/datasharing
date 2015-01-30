@@ -1,4 +1,4 @@
-##This was forked after the time i was meant to, with the only intent to keep the text with me for reading afterwards.
+##This was forked after the time i was meant to.
 
 How to share data with a statistician
 ===========
